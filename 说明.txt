@@ -1,0 +1,2 @@
+1.编译时需要将source文件夹做为源文件
+2.jar包名应为“distributedStorage“
